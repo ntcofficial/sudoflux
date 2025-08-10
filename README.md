@@ -1,0 +1,1 @@
+All the commit history of SudoFlux has been removed and this project has been archived due to the lack of userbase. This project has been withdrawn from AUR too. Next Tech Creations' team apologizes to the people excited.
